@@ -17,7 +17,19 @@
 
 ## 権限/Permission
 
-- `gm.help`：
+- `gm.*`：GMmanagerの全権限
 
+- `gm.help`：ヘルプを表示します
+
+- `gm.reload`：Configを再読み込みします。
+
+- `gm.survival`：サバイバルモードに変更します
+
+- `gm.creative`：クリエイティブモードに変更します
+
+- `gm.advanture`：アドベンチャーモードに変更します
+
+- `gm.spectator`：スペクテイターモードに変更します
+- 
 ## ライセンス/License
 [GNU General Public License v3.0](LICENSE)
