@@ -1,0 +1,39 @@
+name: GMmanager
+version: '${version}'
+main: com.github.albardoo02.GMmanager
+authors: [ albardoo02 ]
+description: ゲームモードを素早く変更する
+website: https://github.com/CodeMC-Network/GMmanager
+
+commands:
+  gm:
+    aliases: [gamemode]
+    description: ゲームモードを変更する
+
+Permissions:
+  gm.*:
+    default: op
+    children:
+      gm.reload: true
+      gm.help: true
+      gm.survival: true
+      gm.creative: true
+      gm.adventure: true
+      gm.spectator: true
+  gm.reload:
+    default: op
+  gm.help:
+    default: op
+  gm.survival:
+    default: op
+  gm.creative:
+    default: op
+  gm.advanture:
+    default: op
+  gm.spectator:
+    default: op
+
+
+
+
+
