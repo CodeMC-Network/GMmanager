@@ -15,6 +15,7 @@
 
 - `/gm 3`：スペクテイターモードに変更します
 
+- `/gamemode`も可能
 ## 権限/Permission
 
 - `gm.*`：GMmanagerの全権限
