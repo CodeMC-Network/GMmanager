@@ -28,7 +28,7 @@ Permissions:
     default: op
   gm.creative:
     default: op
-  gm.advanture:
+  gm.adventure:
     default: op
   gm.spectator:
     default: op
