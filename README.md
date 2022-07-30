@@ -1,3 +1,15 @@
+## 
+GameModeに移行されました
+
+https://github.com/CodeMC-Network/GameMode
+
+##
+
+
+
+
+
+
 ## 概要
 ゲームモードを素早く変更するプラグイン
 
